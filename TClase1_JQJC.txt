@@ -1,2 +1,4 @@
 Los Lenguajes en los que se programar son: 
 Java 
+C++
+Phyton 
